@@ -2,16 +2,6 @@ import java.io.*;
 import java.net.*;
 
 
-/*
-
-	Client Hello 
-	Server Hello 
-
-	Keyexchange Done !!
-
-*/
-
-
 class Main {
 
 	public static void main(String[] args){
